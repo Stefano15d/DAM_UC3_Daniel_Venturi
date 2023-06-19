@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DAM_UC3_Daniel_Venturi</string>
+    <string name="text_nombre">Nombre:</string>
+    <string name="text_apellido">Apellido:</string>
+    <string name="text_email">Correo electronico</string>
+    <string name="text_contraseña">Constraseña:</string>
+    <string name="text_sexo">sexo</string>
+    <string name="text_nacimiento">fecha de nacimiento</string>
+    <string name="text_facebook">Facebook</string>
+    <string name="AAAS">Botón 1</string>
+    <string name="SDSADSA">ENVIAR</string>
+    <string name="button_primero">Botón 1</string>
+</resources>
